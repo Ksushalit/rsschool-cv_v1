@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(244, 230, 204);
+}
+#img{
+    border:1px solid black;
+    border-radius: 10%;
+    top:10%;
+    box-shadow: 10px 10px 0.2px (rgb(53, 52, 52));
+}
+em{
+    font-size: 35px;
+}
+.block1{
+    margin-top: 8%;
+    margin-left:2%;
+    border:1px solid black;
+    background-color: white;
+    padding:4%;
+    width:300px;
+    height: auto;
+    padding-left: 1%;
+
+}
+p{
+    font-size: 25px;
+    font-style: italic;
+    
+}
+.liitem{
+    font-size: 25px;
+    font-style: italic;
+
+}
+footer{
+    border:1px solid black;
+    width:300px;
+    height:80px;
+    margin-top: 8%;
+    margin-left:2%;
+    padding-top:4%;
+    background-color: white;
+    font-size: 25px;
+    font-style: italic;
+    text-align: center;
+
+
+}
